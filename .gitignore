@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+raw_data/
+logs/
+backtest/results/
+dashboard/output/
+integrated_report_*
+industry_deep_dive.xlsx
+hot_topic_timeline.csv
+dashboard.html
+*.log
+.DS_Store
